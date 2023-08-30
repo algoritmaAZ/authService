@@ -1,0 +1,5 @@
+host github.com
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/algoritmaAZ.pub
+	IdentitiesOnly yes
